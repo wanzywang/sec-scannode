@@ -5,7 +5,7 @@ beautifulsoup4==4.8.2
 certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
-cryptography==2.8
+cryptography==3.2
 cx-Oracle==7.3.0
 docker==4.2.0
 docutils==0.16
