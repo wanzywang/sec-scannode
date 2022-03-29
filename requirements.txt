@@ -20,7 +20,7 @@ importlib-resources==1.4.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 packaging==20.3
-paramiko==2.7.1
+paramiko==2.10.1
 passlib==1.7.2
 pika==1.1.0
 pycparser==2.20
